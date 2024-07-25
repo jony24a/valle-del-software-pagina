@@ -7,8 +7,8 @@ const NavigationBar = () => {
                 <div className="max-w-7xl mx-auto px-4 flex justify-between items-center">
                     <div className="flex items-center">
                         <img src="/logo.png" alt="logo" className="w-14 h-12" />
-                        <div className="text-2xl font-semibold text-black flex">
-                            Valle Del Software
+                        <div className="text-2xl font-semibold text-black flex ml-4">
+                            Valle del Software
                         </div>
                     </div>
                     <div className="hidden lg:block">
@@ -30,7 +30,7 @@ const NavigationBar = () => {
                             </li>
                             <li>
                                 <span className="mx-2 font-bold custom_btn_menu">
-                                    Contact
+                                    Contacto
                                 </span>
                             </li>
                         </ul>
