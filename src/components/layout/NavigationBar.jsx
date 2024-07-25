@@ -30,7 +30,7 @@ const NavigationBar = () => {
                             </li>
                             <li>
                                 <span className="mx-2 font-bold custom_btn_menu">
-                                    Contacto
+                                    Contact
                                 </span>
                             </li>
                         </ul>
